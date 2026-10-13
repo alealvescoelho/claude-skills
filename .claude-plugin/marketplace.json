@@ -1,0 +1,17 @@
+{
+  "name": "claude-skills",
+  "owner": {
+    "name": "alealvescoelho"
+  },
+  "metadata": {
+    "description": "Skills pessoais para Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "changelog-update",
+      "description": "Atualiza o CHANGELOG.md existente no padrão do projeto e gera CHANGELOG-TECHNICAL-{versão}.md e CHANGELOG-CASUAL-{versão}.md em português",
+      "source": "./plugins/changelog-update"
+    }
+  ]
+}

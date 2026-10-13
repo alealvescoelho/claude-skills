@@ -1,0 +1,8 @@
+{
+  "name": "changelog-update",
+  "description": "Atualiza o CHANGELOG.md existente no padrão do projeto e gera CHANGELOG-TECHNICAL-{versão}.md e CHANGELOG-CASUAL-{versão}.md em português",
+  "version": "1.0.0",
+  "author": {
+    "name": "alealvescoelho"
+  }
+}
