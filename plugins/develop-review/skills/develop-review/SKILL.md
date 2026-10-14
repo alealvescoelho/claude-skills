@@ -1,9 +1,9 @@
 ---
-name: code-review
+name: develop-review
 description: Revisa as mudanças da branch atual contra uma branch base (usando o merge-base) e gera um relatório Markdown em português com problemas classificados por severidade (CRÍTICO, AVISO, SUGESTÃO) e sugestões de testes. Use sempre que o usuário pedir code review, revisão de PR/MR, "revisar meu código", "checar bugs da branch", "o que pode quebrar nessa PR" ou quiser uma análise das alterações antes de abrir ou aprovar um pull request, mesmo sem citar o nome da skill.
 ---
 
-# Code Review
+# Develop Review
 
 Baseada na skill `pr-code-review` de [Tainmat/skill_claude_tainmat](https://github.com/Tainmat/skill_claude_tainmat), com a branch base e os tipos de arquivo configuráveis.
 

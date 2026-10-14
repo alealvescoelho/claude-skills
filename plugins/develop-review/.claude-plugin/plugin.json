@@ -1,5 +1,5 @@
 {
-  "name": "code-review",
+  "name": "develop-review",
   "description": "Revisa a branch atual contra uma branch base e gera relatório Markdown em português com problemas por severidade e sugestões de testes",
   "version": "1.0.0",
   "author": {
