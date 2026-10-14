@@ -12,6 +12,11 @@
       "name": "changelog-update",
       "description": "Atualiza o CHANGELOG.md existente no padrão do projeto e gera CHANGELOG-TECHNICAL-{versão}.md e CHANGELOG-CASUAL-{versão}.md em português",
       "source": "./plugins/changelog-update"
+    },
+    {
+      "name": "code-review",
+      "description": "Revisa a branch atual contra uma branch base e gera relatório Markdown em português com problemas por severidade e sugestões de testes",
+      "source": "./plugins/code-review"
     }
   ]
 }
