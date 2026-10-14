@@ -1,0 +1,8 @@
+{
+  "name": "develop-description",
+  "description": "Gera descrição de Pull Request (ou commit) em português a partir do diff da branch atual, com template fixo: O que foi feito, Arquivos alterados, Motivação e Como testar",
+  "version": "1.0.0",
+  "author": {
+    "name": "alealvescoelho"
+  }
+}

@@ -17,6 +17,11 @@
       "name": "develop-review",
       "description": "Revisa a branch atual contra uma branch base e gera relatório Markdown em português com problemas por severidade e sugestões de testes",
       "source": "./plugins/develop-review"
+    },
+    {
+      "name": "develop-description",
+      "description": "Gera descrição de Pull Request (ou commit) em português a partir do diff da branch atual, com template fixo: O que foi feito, Arquivos alterados, Motivação e Como testar",
+      "source": "./plugins/develop-description"
     }
   ]
 }
